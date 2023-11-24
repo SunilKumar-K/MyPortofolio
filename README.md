@@ -1,2 +1,4 @@
 # MyPortofolio
-If you wanna know more about me then check out 
+
+
+- #### Welcome to my portfolio website! This site serves as a showcase of my skills, projects, and experiences. 
